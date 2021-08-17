@@ -1,0 +1,4 @@
+Parameter,RelativeError,SatisfiedFormulas,AvgUnsatisfiedClauses,MaxUnsatisfiedClauses,Time
+C:\Users\touse\source\repos\KOP1_KnapsackProblem\SATSolverApp\Data\wuf-M1,0,1,0,0,309.8
+C:\Users\touse\source\repos\KOP1_KnapsackProblem\SATSolverApp\Data\wuf-M1,0,0.8,1.6666666666666667,3,590.3
+C:\Users\touse\source\repos\KOP1_KnapsackProblem\SATSolverApp\Data\wuf-M1,0,0,5.7272727272727275,10,1026.1

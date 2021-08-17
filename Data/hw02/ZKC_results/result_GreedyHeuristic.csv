@@ -1,0 +1,6 @@
+InstanceSize,Algorithm,AverageTime,MaximumTime,VisitedStates
+10,GreedyHeuristic,3.0933333333333333,6,0
+15,GreedyHeuristic,2.027,4,0
+20,GreedyHeuristic,3.8023333333333333,7,0
+22,GreedyHeuristic,3.1123333333333334,7,0
+4,GreedyHeuristic,0.6833333333333333,2,0

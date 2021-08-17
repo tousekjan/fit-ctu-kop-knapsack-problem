@@ -1,0 +1,6 @@
+InstanceSize,Algorithm,AverageTime,MaximumTime,VisitedStates
+10,BruteForce,71.44033333333333,140,0
+15,BruteForce,2543.463,5071,0
+20,BruteForce,93257.79733333334,186275,0
+22,BruteForce,397587.017,786525,0
+4,BruteForce,0,0,0

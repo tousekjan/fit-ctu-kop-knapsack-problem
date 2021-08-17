@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KnapsackProblemApp": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\Data\\HW01\\BenchmarkSelectedNR\\ bab 10"
+    }
+  }
+}

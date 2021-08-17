@@ -1,0 +1,2 @@
+InstanceSize,SelectionMethod,CrossoverMethod,PopulationSize,MaxGenerations,SelectionRate,MutationRate,AvgRelativeError,MaxRelativeError,TimeElapsed
+0,Tournament,TwoPoint,20,20,0.6,0.02,0.06648118459940328,1,190

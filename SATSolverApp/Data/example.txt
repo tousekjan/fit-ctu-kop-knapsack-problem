@@ -1,0 +1,12 @@
+c MWCNF Example
+c 4 variables, 6 clauses
+c each clause is terminated by '0' (not by the end of line)
+p mwcnf 4 6
+c zero-terminated as the clauses
+w 2 4 1 6 0
+1 -3 4 0
+-1 2 -3 0
+3 4 0
+1 2 -3 -4 0
+-2 3 0
+-3 -4 0

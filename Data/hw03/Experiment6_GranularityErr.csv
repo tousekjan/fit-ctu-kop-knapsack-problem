@@ -1,0 +1,4 @@
+ParameterInt,ParameterDouble,ParameterString,AverageError
+0,0,bal,0.000585493696049537
+0,0,light,0.0017639644976983173
+0,0,heavy,0.002270058883258274

@@ -1,0 +1,3 @@
+Parameter,RelativeError,SatisfiedFormulas,AvgUnsatisfiedClauses,MaxUnsatisfiedClauses,Time
+Random,0.00443178210799806,1,0,0,30.6
+OppositeCorners,0.00506010922951659,1,0,0,18.03

@@ -1,0 +1,6 @@
+InstanceSize,Algorithm,AverageTime,MaximumTime,VisitedStates
+10,BranchAndBound,14.989301801801801,25,0
+15,BranchAndBound,8.523809523809524,19,0
+20,BranchAndBound,1.8116883116883118,4,0
+22,BranchAndBound,5.694092827004219,8,0
+4,BranchAndBound,3.886443046820405,8,0

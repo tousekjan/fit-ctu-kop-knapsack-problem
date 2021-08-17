@@ -1,0 +1,6 @@
+InstanceSize,Algorithm,AverageTime,MaximumTime,VisitedStates
+10,DynamicProgrammingWeight,55.987,108,0
+15,DynamicProgrammingWeight,142.65933333333334,290,0
+20,DynamicProgrammingWeight,274.483,550,0
+22,DynamicProgrammingWeight,350.253,700,0
+4,DynamicProgrammingWeight,7.932333333333333,16,0
